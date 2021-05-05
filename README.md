@@ -1,6 +1,6 @@
-# Murmelpass
+# Password Manager
 
-*NOTE: This app is in a testing phase and is not functioning yet. UI and functionality will come to change.*
+*NOTE: This app is replaced with [Murmelpass](https://github.com/ludvighe/murmelpass).*
 
 ---
 
